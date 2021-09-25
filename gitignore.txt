@@ -236,6 +236,3 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 *.jfm
-
-# Agrithmics Database
-/Agrithmics.Tips.Database/Scripts/ScriptsIgnoredOnImport.sql
